@@ -34,8 +34,12 @@ A aplicação permite gravar áudio do usuário para transcrição ou receber te
 
 <br>
 
-<div align="center">
-  <a  href="https://github.com/jeffersontavaresdm">
-    <img width="30%" src="https://github.com/jeffersontavaresdm/jeffersontavaresdm/blob/main/images/rs.gif" width="25"/>
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+  <strong><i>Valeu =)</i></strong>
+  <br/>
+  <br/>
+  <br/>
+  <a href="https://github.com/jeffersontavaresdm">
+    <img alt="valeu =)" width="30%" src="https://github.com/jeffersontavaresdm/jeffersontavaresdm/blob/main/images/rs.gif" width="25"/>
   </a>
 </div>
