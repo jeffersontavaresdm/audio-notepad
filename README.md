@@ -24,7 +24,7 @@ A aplicação permite gravar áudio do usuário para transcrição ou receber te
 - Radix UI
 ### Como executar o projeto:
 - Se certifique de que tem o **npm** instalado
-- Clone o projeto (`git clone `)
+- Clone o projeto (`git clone https://github.com/jeffersontavaresdm/audio-notepad.git`)
 - Entre na pasta do projeto
 - Execute o comando `npm install` para instalar as dependencias do projeto
 - Execute o comando `npm run dev` para iniciar o servidor local
